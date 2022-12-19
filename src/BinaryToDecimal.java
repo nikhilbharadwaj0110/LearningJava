@@ -43,6 +43,8 @@ public class BinaryToDecimal {
         int decimal = b1.convertBinToDec();
         System.out.println("Decimal value of " + binaryNum + " is: " + decimal);
         // System.out.println(b1.exponent(2, 3));
+
+        // this is a new line 
     }
 
 }
