@@ -2,7 +2,7 @@ public class BinaryToDecimal {
     private int binaryNumber;
     private int binaryNumberLength;
 
-    public BinaryToDecimal(int binaryNumber, int binaryNumberLength) {
+    public BinsaryToDecimal(int binaryNumber, int binaryNumberLength) {
         this.binaryNumber = binaryNumber;
         this.binaryNumberLength = binaryNumberLength;
     }
